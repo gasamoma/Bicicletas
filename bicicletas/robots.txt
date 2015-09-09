@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: consultas.php
+
+sitemap: http://bicicletas.antorchaingenieria.com/sitemap.xml
